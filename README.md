@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mdiaz46
 - 👀 I’m interested in ...Physics
-- 🌱 I’m currently learning ...Python 
+- 🌱 I’m currently developing in ...Python 
 - 💞️ I’m looking to collaborate on ... gravitational waves data analysis
 - 📫 How to reach me ...
 
