@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mdiaz46
-- 👀 I’m interested in ...datasets
+- 👀 I’m interested in ...deep data analysis and research
 - 🌱 I’m currently developing in ...Python 
 - 💞️ I’m looking to collaborate on ... neuroimaging
 - 📫 How to reach me ... message
